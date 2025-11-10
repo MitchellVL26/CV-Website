@@ -46,7 +46,7 @@ a {
 }
 
 .navbar .logo .logo-dot {
-    color: rgb(10, 20, 70);
+    color: rgb(30, 60, 140);
 }
 
 .navbar ul {
@@ -71,7 +71,7 @@ a {
 
 .navbar ul li:hover a,
 .navbar ul li.active a {
-    color: rgb(10, 20, 70);
+    color: rgb(30, 60, 140);
 }
 
 .home {
@@ -98,7 +98,7 @@ a {
 }
 
 .home .home-web {
-    color: rgb(10, 20, 70);
+    color: rgb(30, 60, 140);
     overflow: hidden;
     border-right: 4px solid white;
     white-space: nowrap;
@@ -137,7 +137,7 @@ a {
 }
 
 .home-info .home-acn {
-    color: rgb(10, 20, 70);
+    color: rgb(30, 60, 140);
 }
 
 .home .home-info .btn-sci {
@@ -148,7 +148,7 @@ a {
     color: white;
     font-size: 15px;
     font-weight: 400;
-    background-color: rgb(10, 20, 70);
+    background-color: rgb(30, 60, 140);
     border: 2px solid;
     border-radius: 23px;
     padding: 15px 25px;
@@ -157,20 +157,20 @@ a {
 
 .btn:hover {
     background-color: white;
-    color: rgb(10, 20, 70);
-    box-shadow: 0px 0px 15px rgb(10, 20, 70);
+    color: rgb(30, 60, 140);
+    box-shadow: 0px 0px 15px rgb(30, 60, 140);
 }
 
 .btn:active {
-    background-color: rgb(10, 20, 70);
+    background-color: rgb(30, 60, 140);
     color: white;
 }
 
 .home-img .img-box {
     width: 32vw;
     height: 32vw;
-    background-color: rgb(10, 20, 70);
-    box-shadow: 0px 0px 40px rgb(10, 20, 70);
+    background-color: rgb(30, 60, 140);
+    box-shadow: 0px 0px 40px rgb(30, 60, 140);
     border-radius: 50%;
     padding: 5px;
 }
@@ -207,7 +207,7 @@ a {
 }
 
 .home .home-info .btn-sci a i {
-    color: rgb(10, 20, 70);
+    color: rgb(30, 60, 140);
     padding: 5px;
     font-size: 2.3rem;
     transition: .5s;
@@ -215,7 +215,7 @@ a {
 
 .home .home-info .btn-sci a i:hover,
 .home .home-info .btn-sci a i:active {
-    color: rgb(10, 20, 70);
+    color: rgb(30, 60, 140);
 }
 
 .about {
